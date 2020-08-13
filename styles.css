@@ -324,6 +324,7 @@ a.social:hover {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
+  min-height: 360px;
   text-align: left;
   background: rgb(167, 165, 165);
   border-bottom: 4px solid rgb(245, 241, 24);
