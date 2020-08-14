@@ -45,8 +45,10 @@ a:hover {
     display: block;
     margin-right: auto;
     color: white;
+    margin-top: 5px;
+    
 }
-.nav li {
+.nav a {
   padding: 5px 10px 10px 10px;
 }
 .nav a {
